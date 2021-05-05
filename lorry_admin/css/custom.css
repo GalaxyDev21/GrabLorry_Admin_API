@@ -1,0 +1,13 @@
+.errors ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.errors ul li {
+    padding: 5px;
+    color: #910e0e;
+    border: 1px solid;
+    margin-bottom: 3px;
+    border-radius: 5px;
+    text-align: center;
+}
